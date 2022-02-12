@@ -1,6 +1,6 @@
 {
   "name": "@dev-trial/math-easy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "First Package from Alex Stein",
   "main": "index.js",
   "scripts": {
