@@ -1,0 +1,11 @@
+{
+  "name": "@dev-trial/math-easy",
+  "version": "1.0.0",
+  "description": "First Package from Alex Stein",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vyusen Lex Stein",
+  "license": "ISC"
+}
